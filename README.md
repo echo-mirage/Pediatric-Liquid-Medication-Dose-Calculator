@@ -3,9 +3,11 @@
 === Pediatric Dosage Calculator for Liquid Medications ===
 
 Version 2025.07.13
+
 Author: Echo-Mirage
 
 Description:
+
 Calculates weight-based doses in mL for common liquid oral medications
 Supports custom medication entry for on-the-fly calculation
 Can also generate a dosing table for a custom medication entry (weight-based in 0.5kg increments)
