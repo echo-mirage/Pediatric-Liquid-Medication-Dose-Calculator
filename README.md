@@ -33,8 +33,8 @@ No guarantee is made as to the accuracy of the calculations. You need to check t
 
 The calculation is done by first entering the mg/kg dose 
 
-  Example: 10kg weight at 15mg/kg = 150mg desired dose) 
+  Example: 10kg weight at 15mg/kg = 150mg desired dose
   
 Then using the concentration to determine the amount in mL needed to deliver the desired dose 
 
-  Example: Acetaminophen 160mg/5mL = 32mg/mL, so the desired 150mg dose / 32mg = 4.69mL to deliver 150mg dose)
+  Example: Acetaminophen 160mg/5mL = 32mg/mL, so the desired 150mg dose / 32mg = 4.69mL to deliver 150mg dose
