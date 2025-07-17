@@ -1,7 +1,6 @@
 # Pediatric-Liquid-Medication-Dose-Calculator
 
-
-![Pediatric Dosage Calculator](https://github.com/user-attachments/assets/0174d140-f27d-453e-9055-b702bcb8dad7)
+<img width="835" height="600" alt="image" src="https://github.com/user-attachments/assets/4c693015-d958-4b6b-8d01-603903d6fc93" />
 
 
 === Pediatric Dosage Calculator for Liquid Medications ===
