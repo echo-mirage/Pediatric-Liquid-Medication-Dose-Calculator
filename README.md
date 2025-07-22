@@ -1,18 +1,19 @@
 # Pediatric-Liquid-Medication-Dose-Calculator
 
-<img width="835" height="600" alt="image" src="https://github.com/user-attachments/assets/4c693015-d958-4b6b-8d01-603903d6fc93" />
+![dosecalc](https://github.com/user-attachments/assets/f5d51360-e9e4-4c3a-af6d-1c623ea11395)
+
 
 
 === Pediatric Dosage Calculator for Liquid Medications ===
 
-Version 2025.07.17
+Version 2025.07.21
 
 Author: Echo-Mirage
 
 
 Description:
 
-Calculates weight-based doses in mL for common liquid oral medications
+Calculates weight-based doses in mL for common over-the-counter liquid oral medications (Acetaminophen, Ibuprofen, and Diphenhydramine)
 
 Supports custom medication entry for on-the-fly calculation
 
@@ -41,3 +42,6 @@ The calculation is done by first entering the mg/kg dose
 Then using the concentration to determine the amount in mL needed to deliver the desired dose 
 
   Example: Acetaminophen 160mg/5mL = 32mg/mL, so the desired 150mg dose / 32mg = 4.69mL to deliver 150mg dose
+
+Changelog: 
+2025.07.21 - Added Dosing Charts for preset medications.
